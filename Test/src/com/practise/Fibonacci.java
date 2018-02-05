@@ -2,6 +2,7 @@ package com.practise;
 
 public class Fibonacci {
 	public static void main(String[] args){
+		System.out.println(0);
 		fibo(3);
 	}
 	
