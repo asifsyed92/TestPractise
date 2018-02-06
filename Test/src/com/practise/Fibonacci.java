@@ -6,6 +6,7 @@ public class Fibonacci {
 		System.out.println(0);
 		fibo(3);
 		doggo.bark();
+		System.out.println(doggo.getHealth());
 	}
 	
 	private static void fibo(int n){
